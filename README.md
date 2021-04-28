@@ -5,6 +5,9 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
 <h3 align="center">A passionate frontend developer from Italy, currently living in Lisbon</h3>
 
+<h1 align="center">Hi 👋, I'm Gianluca</h1>
+<h3 align="center">A passionate frontend developer from Italy, currently living in Lisbon</h3>
+
 - 🌱 I’m currently learning **React, Typescript**
 
 - 💬 Ask me about **anything, but love**

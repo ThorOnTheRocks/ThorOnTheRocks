@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gianluca.galota@gmail.com**
 
-- ⚡ Fun fact **Most Disney characters wear gloves to keep animation simple**
+- ⚡ Fun fact **I still take notes writing on paper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

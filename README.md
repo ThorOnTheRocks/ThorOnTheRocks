@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
-<h3 align="center">A passionate frontend developer from Italy, currently living in Lisbon</h3>
-
-<h1 align="center">Hi 👋, I'm Gianluca</h1>
 <h3 align="center">A passionate Front-end Web Developer from Italy, currently living in Lisbon</h3>
 
 - 🔭 I've just finished working on [NomadConnect](http://www.nomadconnect.xyz/)

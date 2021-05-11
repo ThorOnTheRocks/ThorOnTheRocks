@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **fun front-end web project**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **front-end development**
 
 - 📫 How to reach me **gianluca.galota@gmail.com**
 

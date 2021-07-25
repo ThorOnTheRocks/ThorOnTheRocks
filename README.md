@@ -25,9 +25,8 @@
 
 <h1>My Stats</h1>
 
-<div style="display: flex">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThorOnTheRocks&theme=dracula&show_icons=true)]        
-  (https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorOnTheRocks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThorOnTheRocks&theme=dracula&show_icons=true)]      (https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorOnTheRocks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 

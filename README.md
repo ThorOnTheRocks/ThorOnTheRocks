@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
 <h3 align="center">A passionate Front-end Web Developer from Italy, currently based in ☀️ Lisbon</h3>
 
-- 🔭 I've just finished working on [NomadConnect](http://www.nomadconnect.xyz/)
+- 🔭  I've just finished working on [NomadConnect](http://www.nomadconnect.xyz/)
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱  I’m currently learning **React, Typescript**
 
-- 👯 I’m looking to collaborate on **fun front-end web project**
+- 👯  I’m looking to collaborate on **fun front-end web project**
 
-- 💬 Ask me about **front-end development**
+- 💬  Ask me about **front-end development**
 
-- 📫 How to reach me **gianluca.galota@gmail.com**
+- 📫  How to reach me **gianluca.galota@gmail.com**
 
-- ⚡ Fun fact **I still take notes writing on paper**
+- ⚡  Fun fact **I still take notes writing on paper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

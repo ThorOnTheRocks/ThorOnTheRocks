@@ -5,9 +5,7 @@
 
 - 🌱  I’m currently learning **Redux, Typescript**
 
-- 👯  I’m looking to collaborate on **fun front-end web project**
-
-- 💬  Ask me about **anything tech related**
+- 👯  I’m looking to collaborate on **fun front-end web projects**
 
 - 📫  How to reach me **gianluca.galota@gmail.com**
 

@@ -3,7 +3,7 @@
 
 - 🔭  I've just finished working on [NomadConnect](http://www.nomadconnect.xyz/)
 
-- 🌱  I’m currently learning **Typescript**
+- 🌱  I’m currently learning **Typescript and Node/Express**
 
 - 👯  I’m looking to collaborate on **front-end web projects**
 

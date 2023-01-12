@@ -3,7 +3,7 @@
 
 - 🔭  I'm redesigning my portfolio website: coming soon!
 
-- 🌱  I’m currently learning **Typescript and Node/Express**
+- 🌱  I’m currently learning **Typescript and Api Design with Node/Express**
 
 - 👯  I’m looking to collaborate on **front-end web projects**
 

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
 <h3 align="center">Front-end Developer from Italy, currently based in ☀️ Lisbon</h3>
 
-- 🔭  I'm redesigning my portfolio website: coming soon!
+- 🔭  I'm redesigning my portfolio website: **coming soon!**
 
 - 🌱  I’m currently learning **Typescript and Api Design with Node/Express**
 
-- 👯  I’m looking to collaborate on **front-end web projects**
+- 👯  I’m looking to collaborate on **OpenSource Projects: currently contributing to [LinkFree](https://linkfree.eddiehub.io/)**
 
 - 📫  How to reach me **gianluca.galota@gmail.com**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
-<h3 align="center">Frontend React Developer from Italy, currently based in ☀️ Lisbon</h3>
+<h3 align="center">Frontend React Developer currently based in ☀️ Lisbon</h3>
 
 - 🔭  I'm redesigning my portfolio website: **coming soon!**
 

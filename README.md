@@ -27,8 +27,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThorOnTheRocks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://app.daily.dev/GianLuca88"><img src="https://api.daily.dev/devcards/9f2c22f9dcfc4d27be44d22c2805b0b3.png?r=ab1" width="400" alt="Gianluca Galota's Dev Card"/></a>
-
-
-

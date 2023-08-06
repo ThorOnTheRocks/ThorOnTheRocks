@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
 <h3 align="center">Frontend React Developer</h3>
 
-- 🔭  Here my new portfolio website: [gianlucagalota.dev](https://www.gianlucagalota.dev/)**
+- 🔭  Here my new portfolio website: [gianlucagalota.dev](https://www.gianlucagalota.dev/)
 
 - 🌱  I’m currently learning **Advanced React Patterns | Typescript | Api Design | Node/Express | AWS**
 

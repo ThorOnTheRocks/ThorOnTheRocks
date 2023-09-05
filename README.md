@@ -3,7 +3,7 @@
 
 - 🔭  Here my new portfolio website: [gianlucagalota.dev](https://www.gianlucagalota.dev/)
 
-- 🌱  I’m currently learning **Advanced React Patterns | Typescript | Api Design | Node/Express | AWS**
+- 🌱  I’m currently learning **Advanced React Patterns | Typescript | Api Design | Node/Express**
 
 - 👯  I’m looking to collaborate on **OpenSource Projects: currently contributing to [LinkFree](https://linkfree.eddiehub.io/)**
 

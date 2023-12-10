@@ -36,4 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorontherocks&" alt="thorontherocks" /></p>
 
-<a href="https://app.daily.dev/gianluca88"><img src="https://api.daily.dev/devcards/9f2c22f9dcfc4d27be44d22c2805b0b3.png?r=wpf" width="400" alt="Gianluca Galota's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/ThorOnTheRocks/ThorOnTheRocks/blob/master/devcard.svg" width="400" alt="Gianluca Galota's Dev Card"/></a>

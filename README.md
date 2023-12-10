@@ -35,3 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thorontherocks&show_icons=true&locale=en" alt="thorontherocks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thorontherocks&" alt="thorontherocks" /></p>
+
+<a href="https://app.daily.dev/gianluca88"><img src="https://api.daily.dev/devcards/9f2c22f9dcfc4d27be44d22c2805b0b3.png?r=wpf" width="400" alt="Gianluca Galota's Dev Card"/></a>

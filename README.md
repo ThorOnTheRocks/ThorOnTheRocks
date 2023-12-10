@@ -2,7 +2,6 @@
 <h3 align="center">Frontend Engineer who enjoys building fullstack web application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorontherocks&label=Profile%20views&color=0e75b6&style=flat" alt="thorontherocks" /> </p>
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=thorontherocks&label=Profile%20views&color=0e75b6&style=flat](https://www.codewars.com/users/ThorOnTheRocks/badges/large)" alt="thorontherocks" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thorontherocks" alt="thorontherocks" /></a> </p>
 

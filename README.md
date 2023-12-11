@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **DevLinks**
 
-- 🌱 I’m currently learning **React Native | Api Design | GraphQL**
+- 🌱 I’m currently learning **React Native | GraphQL**
 
 - 👨‍💻 All of my projects are available at [gianlucagalota.dev](gianlucagalota.dev)
 

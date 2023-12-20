@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
-<h3 align="center">Frontend Engineer who enjoys building fullstack web application</h3>
+<h3 align="center">Frontend Engineer building fullstack web applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorontherocks&label=Profile%20views&color=0e75b6&style=flat" alt="thorontherocks" /> </p>
 

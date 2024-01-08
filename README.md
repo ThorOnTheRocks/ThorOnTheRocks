@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native | GraphQL**
 
-- 👨‍💻 All of my projects are available at [gianlucagalota.dev](gianlucagalota.dev)
+- 👨‍💻 All of my projects are available at [gianlucagalota.dev](https://www.gianlucagalota.dev)
 
 - 📝 I regularly write articles on [Medium](Medium)
 

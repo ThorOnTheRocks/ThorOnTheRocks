@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gianluca</h1>
-<h3 align="center">👨‍💻 Specialized Frontend Engineer 🛠️ Fullstack Product Builder for Indie Projects  🚀 Turning ideas into impactful web experiences </h3>
+<h3 align="center">👨‍💻 Specialized Frontend Engineer 🛠️ Fullstack Product Builder for Indie Projects </br> 🚀 Turning ideas into impactful web experiences </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thorontherocks&label=Profile%20views&color=0e75b6&style=flat" alt="thorontherocks" /> </p>
 

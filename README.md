@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thorontherocks" alt="thorontherocks" /></a> </p>
 
-- 🔭 I’m currently working on **DevLinks**
+- 🔭 I’m currently working on **LinksBuddy**
 
 - 🌱 I’m currently learning **React Native | AWS Amplify**
 
